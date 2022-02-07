@@ -3,16 +3,16 @@
 
 
 -->
-## **Dog Scanner**
+## [**Dog Scanner**](https://jins10.github.io/Profile/dogScanner.html)
+
 -Set dog breed lists that I want to include
 -Collect dog photos via Web Crawler
 -Create model using Teachable Machine (https://teachablemachine.withgoogle.com/)
 -Create model using own built Tensorflow code (https://medium.com/nanonets/how-to-easily-build-a-dog-breed-image-classification-model-2fd214419cde)
 -Compare Accuracy and Loss per Epoch
 -Improve dog model
-https://jins10.github.io/Profile/dogScanner.html
 
-## **Tetris** only using **Javascript**, **Css**, **Html**
+## [**Tetris**](https://jins10.github.io/Profile/games.html) only using **Javascript**, **Css**, **Html**
 -Generate a playground that will store grid
 -Generate grid with 25 px per square (GAME_COLS, GAME_ROWS), initialize GAME_COLS as 10, GAME_ROWS as 20.
 -Each Rows should be prepended to the top of the grid. Using two for-loops, prepend lines. When all 20 Rows are generated add class top_line to the lastly added Row, prepend one extra Row and add class invisible. Invisible line will have value display:none, but will allow blocks to be able to be rotated right after it is rendered at the top line.
