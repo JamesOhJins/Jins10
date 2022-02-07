@@ -23,4 +23,3 @@
 - Add preview grid and make it render a block of random block_type. Whenever new block is seized(), render block with current block_type in preview. Preview is renewed and renders new random block of random block_type.
 - Make a checkMatch() goes through each row and checks if entire row has block with seized class. It runs after each seized(). CheckMatch() removes line with full of seized class, adds score. If multi lines are removed at one seize, add bonus score. 
 - Add more game features such as Stages, sound, multi_line removal display, etc.
-https://jins10.github.io/Profile/games.html
