@@ -2,7 +2,8 @@
 **Jins10/Jins10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
--->## [**Dog Scanner**](https://jins10.github.io/Profile/dogScanner.html)
+-->
+## [**Dog Scanner**](https://jins10.github.io/Profile/dogScanner.html)
 
 - Set dog breed lists that I want to include
 - Collect dog photos via Web Crawler
